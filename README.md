@@ -4,8 +4,8 @@
 <img src="images/iptor.png" width="400"> <img src="images/mac.png" width="400">
 
 # Installation
-    1. git clone https://github.com/machine1337/anonbrowse
-    2. cd anonbrowser && chmod +x anon.sh
+    1. git clone https://github.com/machine1337/anonsurf
+    2. cd anonsurf && chmod +x anon.sh
  
 # How To Use:
 
